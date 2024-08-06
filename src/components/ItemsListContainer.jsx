@@ -1,0 +1,1 @@
+export const ItemsListContainer = (props) => <h6>{props.greeting}</h6>;
